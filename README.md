@@ -1,10 +1,10 @@
 # Cookiecutter PyPackage
 
-[![Example Repo Status](https://github.com/AllenCellModeling/cookiecutter-pypackage/workflows/Build%20Example%20Repo/badge.svg)](https://github.com/AllenCellModeling/cookiecutter-pypackage/tree/example-build)
+[![Example Repo Status](https://github.com/MMV-Lab/cookiecutter-pypackage/workflows/Build%20Example%20Repo/badge.svg)](https://github.com/MMV-Lab/cookiecutter-pypackage/tree/example-build)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
-AICS Cookiecutter template for a Python package.
+Cookiecutter template for a Python package.
 
 ## About
 
@@ -45,7 +45,7 @@ To use this template use the following commands and then follow the prompts from
 terminal.
 
 1. `pip install cookiecutter`
-2. `cookiecutter gh:AllenCellModeling/cookiecutter-pypackage`
+2. `cookiecutter gh:MMV-Lab/cookiecutter-pypackage`
 
 ## The Four Commands You Need To Know
 
@@ -110,3 +110,5 @@ terminal.
    well defined PR's.
 
 **Original repo:** https://github.com/audreyr/cookiecutter-pypackage/
+
+This repo was forked from https://github.com/AllenCellModeling/cookiecutter-pypackage and further modified.
