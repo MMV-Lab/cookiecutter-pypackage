@@ -50,23 +50,25 @@ extra_requirements = {
 }
 
 setup(
-    author="Jackson Maxfield Brown",
-    author_email="jacksonb@alleninstitute.org",
+    author="Jianxu Chen",
+    author_email="jianxuchen.ai@gmail.com",
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
         "Intended Audience :: Developers",
+        "License :: OSI Approved :: MIT License",
         "Natural Language :: English",
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
     ],
-    description="Python Boilerplate contains all the boilerplate you need to create a Python package.",
+    description="A Boilerplate for making Python Packages.",
     entry_points={
         "console_scripts": [
             "my_example=python_boilerplate.bin.my_example:main"
         ],
     },
     install_requires=requirements,
+    license="MIT license",
     long_description=readme,
     long_description_content_type="text/markdown",
     include_package_data=True,
@@ -78,9 +80,9 @@ setup(
     test_suite="python_boilerplate/tests",
     tests_require=test_requirements,
     extras_require=extra_requirements,
-    url="https://github.com/AllenCellModeling/python_boilerplate",
+    url="https://github.com/MMV-Lab/python_boilerplate",
     # Do not edit this string manually, always use bumpversion
     # Details in CONTRIBUTING.rst
-    version="0.0.0",
+    version="0.0.1",
     zip_safe=False,
 )
