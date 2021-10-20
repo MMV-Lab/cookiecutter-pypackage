@@ -55,7 +55,6 @@ setup(
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
         "Intended Audience :: Developers",
-        "License :: Free for non-commercial use",
         "Natural Language :: English",
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
@@ -68,7 +67,6 @@ setup(
         ],
     },
     install_requires=requirements,
-    license="Allen Institute Software License",
     long_description=readme,
     long_description_content_type="text/markdown",
     include_package_data=True,
