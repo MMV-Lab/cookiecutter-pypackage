@@ -2,7 +2,7 @@
   "full_name": "Jianxu Chen",
   "email": "jianxuchen.ai@gmail.com",
   "github_username": "MMV-Lab",
-  "project_name": "Python Biolerplate",
+  "project_name": "Python Boilerplate",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
   "project_short_description": "A Boilerplate for making Python Packages.",
   "pypi_username": "{{ cookiecutter.github_username }}",
