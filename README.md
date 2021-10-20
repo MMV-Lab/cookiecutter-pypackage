@@ -1,10 +1,10 @@
 # Python Boilerplate
 
-[![Build Status](https://github.com/AllenCellModeling/python_boilerplate/workflows/Build%20Main/badge.svg)](https://github.com/AllenCellModeling/python_boilerplate/actions)
-[![Documentation](https://github.com/AllenCellModeling/python_boilerplate/workflows/Documentation/badge.svg)](https://AllenCellModeling.github.io/python_boilerplate/)
-[![Code Coverage](https://codecov.io/gh/AllenCellModeling/python_boilerplate/branch/main/graph/badge.svg)](https://codecov.io/gh/AllenCellModeling/python_boilerplate)
+[![Build Status](https://github.com/MMV-Lab/python_boilerplate/workflows/Build%20Main/badge.svg)](https://github.com/MMV-Lab/python_boilerplate/actions)
+[![Documentation](https://github.com/MMV-Lab/python_boilerplate/workflows/Documentation/badge.svg)](https://MMV-Lab.github.io/python_boilerplate/)
+[![Code Coverage](https://codecov.io/gh/MMV-Lab/python_boilerplate/branch/main/graph/badge.svg)](https://codecov.io/gh/MMV-Lab/python_boilerplate)
 
-Python Boilerplate contains all the boilerplate you need to create a Python package.
+A Boilerplate for making Python Packages.
 
 ---
 
@@ -25,11 +25,11 @@ a.get_value()  # 10
 ## Installation
 
 **Stable Release:** `pip install python_boilerplate`<br>
-**Development Head:** `pip install git+https://github.com/AllenCellModeling/python_boilerplate.git`
+**Development Head:** `pip install git+https://github.com/MMV-Lab/python_boilerplate.git`
 
 ## Documentation
 
-For full package documentation please visit [AllenCellModeling.github.io/python_boilerplate](https://AllenCellModeling.github.io/python_boilerplate).
+For full package documentation please visit [MMV-Lab.github.io/python_boilerplate](https://MMV-Lab.github.io/python_boilerplate).
 
 ## Development
 
@@ -74,11 +74,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for information related to developing the
         everything else will be handled for you.
 -   Ensure that you have set GitHub pages to build the `gh-pages` branch by selecting the
     `gh-pages` branch in the dropdown in the "GitHub Pages" section of the repository settings.
-    ([Repo Settings](https://github.com/AllenCellModeling/python_boilerplate/settings))
+    ([Repo Settings](https://github.com/MMV-Lab/python_boilerplate/settings))
 -   Register your project with PyPI:
     -   Make an account on [pypi.org](https://pypi.org)
     -   Go to your GitHub repository's settings and under the
-        [Secrets tab](https://github.com/AllenCellModeling/python_boilerplate/settings/secrets/actions),
+        [Secrets tab](https://github.com/MMV-Lab/python_boilerplate/settings/secrets/actions),
         add a secret called `PYPI_TOKEN` with your password for your PyPI account.
         Don't worry, no one will see this password because it will be encrypted.
     -   Next time you push to the branch `main` after using `bump2version`, GitHub
@@ -100,5 +100,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for information related to developing the
    well defined PR's.
 
 
-**Allen Institute Software License**
+**MIT license**
 

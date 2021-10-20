@@ -32,13 +32,13 @@ You can either clone the public repository:
 
 .. code-block:: console
 
-    $ git clone git://github.com/AllenCellModeling/python_boilerplate
+    $ git clone git://github.com/MMV-Lab/python_boilerplate
 
 Or download the `tarball`_:
 
 .. code-block:: console
 
-    $ curl  -OL https://github.com/AllenCellModeling/python_boilerplate/tarball/main
+    $ curl  -OL https://github.com/MMV-Lab/python_boilerplate/tarball/main
 
 Once you have a copy of the source, you can install it with:
 
@@ -47,5 +47,5 @@ Once you have a copy of the source, you can install it with:
     $ python setup.py install
 
 
-.. _Github repo: https://github.com/AllenCellModeling/python_boilerplate
-.. _tarball: https://github.com/AllenCellModeling/python_boilerplate/tarball/main
+.. _Github repo: https://github.com/MMV-Lab/python_boilerplate
+.. _tarball: https://github.com/MMV-Lab/python_boilerplate/tarball/main

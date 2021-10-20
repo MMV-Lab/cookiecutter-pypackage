@@ -70,8 +70,8 @@ master_doc = "index"
 
 # General information about the project.
 project = u"Python Boilerplate"
-copyright = u'2021, Jackson Maxfield Brown'
-author = u"Jackson Maxfield Brown"
+copyright = u'2021, Jianxu Chen'
+author = u"Jianxu Chen"
 
 # The version info for the project you"re documenting, acts as replacement
 # for |version| and |release|, also used in various other places throughout
@@ -155,7 +155,7 @@ latex_elements = {
 latex_documents = [
     (master_doc, "python_boilerplate.tex",
      u"Python Boilerplate Documentation",
-     u"Jackson Maxfield Brown", "manual"),
+     u"Jianxu Chen", "manual"),
 ]
 
 
